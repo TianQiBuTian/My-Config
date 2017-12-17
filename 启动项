@@ -1,6 +1,4 @@
 cs起源
 -noforcemparms -noforcemaccel -noforcemspd -nojoy -novid -preload -highpriority -tickrate 100 -noborder
 csgo
--noforcemparms -noforcemaccel -noforcemspd -nojoy -novid -preload -highpriority -tickrate 128
-csgo国服
--noforcemparms -noforcemaccel -noforcemspd -nojoy -novid -preload -highpriority -tickrate 128 -language schinese -perfectworld
+-noforcemparms -noforcemaccel -noforcemspd -nojoy -novid -preload -highpriority -processheap -tickrate 128 -maxdownloadfilesizemb 1024
